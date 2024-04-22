@@ -28,11 +28,19 @@ Untuk Fitur masih minim:
 
 ![Screenshot (65)](https://github.com/Kuro192/UKK_Gallery/assets/105845443/58f97247-0322-4a79-b238-0ef2e2d7fe0d)
 
-## ERD dan Relasi 
+## ERD, Relasi dan UML Use Case
+
+- ERD
 
 ![ERD UKK-GALLERY](https://github.com/Kuro192/UKK_Gallery/assets/105845443/6e5a911b-5842-40a4-9687-00ae5d0abf37)
 
+- Relasi
+
 ![Screenshot 2024-04-21 193432](https://github.com/Kuro192/UKK_Gallery/assets/105845443/4d66e307-0230-4646-ac62-1de2d6a548b0)
+
+- UML
+
+![UML GALLERY drawio](https://github.com/Kuro192/UKK_Gallery/assets/105845443/871c2ea4-c579-42e9-944d-47cf0e83c5ff)
 
 
 ## Prasyaratan
