@@ -1,7 +1,7 @@
 <dialog id="overview_modal" wire:ignore.self class="modal">
     @if ($photo)
         <div
-            class="modal-box bg-transparent shadow-none border border-gray-400 p-0 w-fit max-w-[75rem] backdrop-blur-lg">
+            class="modal-box bg-transparent shadow-none border border-gray-400 p-0 w-fit max-w-[80rem] backdrop-blur-lg">
             <img src="{{ url('storage/img/photos/' . $photo->filename) }}" alt="">
         </div>
     @endif
